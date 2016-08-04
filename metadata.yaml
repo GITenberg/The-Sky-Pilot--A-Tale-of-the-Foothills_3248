@@ -1,0 +1,29 @@
+_repo: The-Sky-Pilot--A-Tale-of-the-Foothills_3248
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Connor, Ralph
+    alias: Gordon, Charles William
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '1142'
+    url: http://www.gutenberg.org/2009/agents/1142
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Connor
+description: ''
+gutenberg_issued: '2006-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Social problems -- Fiction'
+- GITenberg
+title: 'The Sky Pilot: A Tale of the Foothills'
+url: http://www.gutenberg.org/ebooks/3248
